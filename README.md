@@ -1,64 +1,75 @@
-<p align="center"><img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
+<div align="center">
 
+# Olá 👋 Sou o Alton
 
-<h1  color="pink">
-        𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
+**Desenvolvedor Full Stack · Founder de 3 produtos web**
 
-# 💫About Me :
-I'm a full-stack developer. I love challenges and solving them.
-Idea, teamwork, and quality of the project are very important for me special.
-I've spent the last several months enrolled in a remote software development school.
-Frontend: Javascript, Html, Css.
-Backend: Ruby on Rails, Node, Postgres.
-Looking for a Developer? Let's Schedule a chat! send me an e-mail at bicagold@gmail.com.
+📍 Patrocínio, Minas Gerais · 🇧🇷
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alton%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alton-vieira/)
+[![Email](https://img.shields.io/badge/Email-bicagold@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bicagold@gmail.com)
 
-## 🌐Socials
-[![StackOverflow](	https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18793588/tibic4) [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Tibic4)     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alton-vieira/)                     
-
-# 💻Tech Stack
-<div align="left">
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="github"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="photoshop"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=ai"  alt="Illustrator"  width="40px" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD"  width="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="sass"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git"  width="40px" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  width="40px" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"  width="40px" />         
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"  width="40px" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest"  width="40px" height="40px" />  
-<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" alt="postman"  width="40px" height="40px" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="react"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="vscode"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack" alt="webpack"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=heroku" alt="heroku"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="redux"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=ruby" alt="ruby"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=rails" alt="rails"  width="40px" height="40px" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="linux"  width="40px" height="40px" />
-
-# 📊GitHub Stats :
- ![Tibic4's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=tibic4&theme=redical&hide_border=true&area=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tibic4&theme=radical&hide_border=false)<br/>
-
-  
-  ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tibic4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-Since May 2022:  [![](https://visitcount.itsvg.in/api?id=tibic4&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+## 🚀 Projetos em produção
+
+### 🎨 [CriaLook](https://crialook.com.br) · [`repo`](https://github.com/Tibic4/Agencia-Fashion)
+
+SaaS B2C de geração de campanhas de moda com IA. Lojista envia foto da peça e em ~60s recebe 3 fotos editoriais com modelo virtual + copy persuasivo + hashtags otimizadas para Instagram, WhatsApp e Meta Ads.
+
+**Stack:** Next.js 16 · React 19 · TypeScript · Supabase (RLS + RPCs atômicas) · Clerk · Mercado Pago · Anthropic Claude Sonnet 4.6 · Google Gemini 3.1 Pro · Inngest · Sentry · PostHog · Nginx + PM2 em VPS própria.
+
+**Highlights:** pipeline IA paralelo · LGPD com consentimento biométrico · 693 req/s na landing após otimização (brotli + proxy_cache) · 33 testes Vitest + 7 cenários k6 · zero vulnerabilidades em stress test de 32k requests.
+
+---
+
+### 🌾 [Rumaria](https://www.rumaria.com.br) · [`repo`](https://github.com/Tibic4/rumaria)
+
+Marketplace SaaS especializado em imóveis rurais (fazendas, sítios, chácaras). Diferente de portais generalistas, foca em ficha rural rica, score automatizado de qualidade, outbound WhatsApp e curadoria editorial.
+
+**Stack:** Next.js 16 · TypeScript strict · Supabase (PostgreSQL com RLS deny-all, 28 migrations) · Mercado Pago · Z-API (WhatsApp) · Upstash Redis · Mapbox GL · Sharp · Browserless · Python + Playwright · Vercel + Cron.
+
+**Highlights:** score 0–100 que afeta ranking · Programa Fundador com outbound WhatsApp + token HMAC · 9 cron jobs · URL SEO-friendly via trigger SQL · LGPD completa · k6 com p95 92ms na rejeição HMAC.
+
+---
+
+### 🔥 [Brasa Forge](https://caldeira-showcase.vercel.app) · [`repo`](https://github.com/Tibic4/linha-brasa)
+
+Case study de landing e-commerce com animações pesadas (GSAP morphing, Framer Motion, vanilla-tilt) e admin CMS completo. Construído para praticar arquitetura de e-commerce de ponta a ponta — frontend → admin → checkout Mercado Pago.
+
+**Stack:** Next.js 14 · GSAP · Framer Motion · Swiper · Mercado Pago Bricks · Vercel Blob · EmailJS · Tailwind 3.
+
+**Highlights:** auth admin com HMAC-SHA256 + timing-safe compare · upload com whitelist mime + sanitização · Hero cinematográfico com timeline GSAP · configurador interativo · auditoria multi-agente documentada.
+
+---
+
+## 🛠️ Stack que mais uso
+
+**Frontend:** Next.js · React · TypeScript · Tailwind · GSAP · Framer Motion
+**Backend:** Node.js · PostgreSQL · Supabase · Server Actions · API routes
+**Auth & Pagamentos:** Clerk · Mercado Pago (HMAC, fraud-gate, idempotência atômica)
+**IA:** Anthropic Claude · Google Gemini · pipelines paralelos com retry/circuit breaker
+**Infra:** VPS Ubuntu (Nginx + PM2) · Vercel · GitHub Actions · k6 · Sentry · PostHog
+**Compliance:** LGPD (consentimento biométrico, art. 18 V/VI, PII redaction)
+
+---
+
+## 📊 GitHub
+
+[![Tibic4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tibic4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Tibic4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tibic4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Tibic4)
+
+---
+
+## 💼 Aberto a oportunidades
+
+Busco posições de **Full Stack Developer (júnior a pleno)** — remoto ou híbrido. Mais interesse em:
+
+- Produtos de IA / LLMs em produção
+- SaaS B2B/B2C com Next.js + TypeScript
+- Stack moderna (Supabase, Server Components, Server Actions)
+- Times pequenos onde dá pra tocar produto end-to-end
+
+📫 **bicagold@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/alton-vieira/)
